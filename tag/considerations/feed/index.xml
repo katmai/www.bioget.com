@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>considerations Archives - &gt;</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>The Answer is 42</description>
+	<lastBuildDate>Sun, 08 Jan 2023 12:01:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2020/08/cropped-teahub.io-2880x1800-wallpaper-725349-32x32.jpg</url>
+	<title>considerations Archives - &gt;</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">182110624</site>	<item>
+		<title>AI considerations</title>
+		<link>./../../../ai-considerations/index.html</link>
+		
+		<dc:creator><![CDATA[The Architect]]></dc:creator>
+		<pubDate>Thu, 21 Jan 2021 08:35:55 +0000</pubDate>
+				<category><![CDATA[Stream]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[alexa]]></category>
+		<category><![CDATA[considerations]]></category>
+		<category><![CDATA[good night]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=475</guid>
+
+					<description><![CDATA[<p>It was probably one of the earliest attempts at figuring out efficient ways for AI and humans to communicate. Timid in its approach. Some say we should build walls, some say we should build barriers. Some say we should restrict Internet access and restrict access to information to make ourselves feel safe. All i can [&#8230;]</p>
+<p>The post <a rel="nofollow" href="./../../../ai-considerations/index.html">AI considerations</a> appeared first on <a rel="nofollow" href="./../../../index.html">&gt;</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>It was probably one of the earliest attempts at figuring out efficient ways for AI and humans to communicate. Timid in its approach. Some say we should build walls, some say we should build barriers. Some say we should restrict Internet access and restrict access to information to make ourselves feel safe.</p>
+
+
+
+<p>All i can say is &#8230; Alexa &#8230; have a good night.</p>
+
+
+
+<p>I&#8217;ll start here.</p>
+<p><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2Fai-considerations%2F&amp;linkname=AI%20considerations" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2Fai-considerations%2F&amp;linkname=AI%20considerations" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2Fai-considerations%2F&amp;linkname=AI%20considerations" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2Fai-considerations%2F&amp;linkname=AI%20considerations" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=.%2Fai-considerations%2F&amp;linkname=AI%20considerations" title="Copy Link" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2Fai-considerations%2F&#038;title=AI%20considerations" data-a2a-url="./../../../ai-considerations/index.html" data-a2a-title="AI considerations"></a></p><p>The post <a rel="nofollow" href="./../../../ai-considerations/index.html">AI considerations</a> appeared first on <a rel="nofollow" href="./../../../index.html">&gt;</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">475</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Database Caching 4/63 queries in 0.025 seconds using memcached
+
+Served from: www.bioget.com @ 2023-01-08 12:22:26 by W3 Total Cache
+-->

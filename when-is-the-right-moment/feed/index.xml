@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: When is the right moment?	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>The Answer is 42</description>
+	<lastBuildDate>Sun, 08 Jan 2023 12:00:42 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: The Architect		</title>
+		<link>./../index.html#comment-4</link>
+
+		<dc:creator><![CDATA[The Architect]]></dc:creator>
+		<pubDate>Fri, 26 Nov 2021 21:15:56 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=518#comment-4</guid>
+
+					<description><![CDATA[i liked the story, the motivation and i am really curious to see where this goes next. i am glad i was in the position to be a part of what you&#039;re doing. Thank you for the kind words! They are much, much appreciated :)]]></description>
+			<content:encoded><![CDATA[<p>i liked the story, the motivation and i am really curious to see where this goes next. i am glad i was in the position to be a part of what you&#8217;re doing. Thank you for the kind words! They are much, much appreciated 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Marketa Lexova		</title>
+		<link>./../index.html#comment-3</link>
+
+		<dc:creator><![CDATA[Marketa Lexova]]></dc:creator>
+		<pubDate>Fri, 26 Nov 2021 18:37:37 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=518#comment-3</guid>
+
+					<description><![CDATA[Thank you very much for your support of the book Island and for such a great blog. It is a masterpiece!]]></description>
+			<content:encoded><![CDATA[<p>Thank you very much for your support of the book Island and for such a great blog. It is a masterpiece!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Database Caching 1/57 queries in 0.024 seconds using memcached
+
+Served from: www.bioget.com @ 2023-01-08 12:22:18 by W3 Total Cache
+-->
